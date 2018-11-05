@@ -1,6 +1,9 @@
 # gallery
 This application was generated using JHipster 5.5.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.5.0](https://www.jhipster.tech/documentation-archive/v5.5.0).
 
+This application is part of tutorial and the link is given here:
+https://dzone.com/articles/build-a-secure-progressive-web-app-with-spring-boo
+
 ## Development
 
 Before you can build this project, you must install and configure the following dependencies on your machine:
